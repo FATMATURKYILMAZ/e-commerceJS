@@ -1,7 +1,7 @@
 
 # 🛒ShopLeon E-Ticaret Sitesi
 
-![E-Ticaret Görseli](images/ecommerce-homepage.png)
+![E-Ticaret Görseli](src\images\1.png)
 
 Bu proje, modern bir **e-ticaret sitesi** oluşturmak için geliştirilmiştir. **React**, **Redux** ve **Tailwind CSS** teknolojilerini kullanarak, kullanıcı dostu ve şık bir alışveriş deneyimi sunar.
 
@@ -87,13 +87,13 @@ Bu projede kullanılan ana teknolojiler:
 
 ## 📷 Ekran Görüntüleri
 ### Ana Sayfa
-![Ana Sayfa](images/ecommerce-homepage.png)
+![Ana Sayfa](src\images\1.png)
 
 ### Ürün Detay Sayfası
-![Ürün Detayı](images/product-detail.png)
+![Ürün Detayı](src\images\2.png)
 
 ### Sepet Sayfası
-![Sepet](images/cart-page.png)
+![Sepet](src\images\3.png)
 
 ---
 
